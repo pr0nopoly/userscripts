@@ -1,7 +1,3 @@
-# Userskripte für das pr0gramm
-
-Was es gibt, was gewollt wird.
-
 ## Skripte
 1. [pr0gramm.com by Seglor](https://github.com/Seglormeister/pr0gramm.com-by-Seglor)
    - Breitbild-pr0gramm
