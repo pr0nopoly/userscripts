@@ -21,3 +21,6 @@ Was es gibt, was gewollt wird.
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) wird [hier](http://pr0gramm.com/new/545214) beschrieben.
 
 Wer noch welche hat -> PN an [mich](http://pr0gramm.com/user/holzmaster) oder Pullrequest stellen.
+
+## Wünsche
+1. [Von pr0ni](http://pr0gramm.com/new/545214:comment2708367): "Ich fänds schön wenn man eine Kommentarfolge einklappen könnte, damit ich nicht so viel scrollen muss. [...]"
