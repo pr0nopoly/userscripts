@@ -12,6 +12,8 @@
 3. [ExtendedBenis](http://vikenemesh.groupc.de/files/ExtendedBenis.user.js)
    - Zeigt einem die Up/Downvotes eines Bildes direkt unter der Beniszahl an.
    - Ohne Skript: Über die Zahl hovern
+4. [Diashow](https://greasyfork.org/scripts/4409-pr0grammsurfer) ([hier](http://pr0gramm.com/new/286521) vorgestellt)
+5. [Zentriertes pr0gramm](https://www.sendspace.com/file/158k8g)([hier](http://pr0gramm.com/new/534136) vorgestellt). Anmerkung: Wird lt. cha0s bald gefixt.
 
 ## Styles
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) wird [hier](http://pr0gramm.com/new/545214) beschrieben.
