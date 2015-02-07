@@ -19,7 +19,7 @@
 5. [Zentriertes pr0gramm](https://www.sendspace.com/file/158k8g) von [trumpf](http://pr0gramm.com/user/trumpf) ([hier](http://pr0gramm.com/new/534136) vorgestellt). Anmerkung: Wird lt. cha0s bald gefixt.
 6. [SF-Status](https://github.com/pr0nopoly/sf-status/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
    - Zeigt den Safe-For-Flag neben dem "Bild Googlen" an.
-7. [Alte Rechts-/Links-Pfeile](https://gist.github.com/X39/19067b9d52c2fe75580a) (zum Installieren auf "Raw" klicken) von [X39](http://pr0gramm.com/user/X39); wird [hier](http://pr0gramm.com/new/614169) vorgestellt.
+7. [Alte Rechts-/Links-Pfeile](https://gist.github.com/X39/19067b9d52c2fe75580a) (zum Installieren auf "Raw" klicken) von [X39](http://pr0gramm.com/user/X39); wird [hier](http://pr0gramm.com/new/614169) vorgestellt. [Hier ist ein schlankerer Fork](https://gist.github.com/pr0nopoly/2ce19d77249678a6a716), der eine andere Herangehensweise verwendet.
 
 ## Styles
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) von [holzmaster](http://pr0gramm.com/user/holzmaster); wird [hier](http://pr0gramm.com/new/545214) beschrieben.
