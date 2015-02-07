@@ -18,7 +18,7 @@
 4. [Diashow](https://greasyfork.org/scripts/4409-pr0grammsurfer) von [CaptnUrMom](http://pr0gramm.com/user/CaptnUrMom) ([hier](http://pr0gramm.com/new/286521) vorgestellt)
 5. [Zentriertes pr0gramm](https://www.sendspace.com/file/158k8g) von [trumpf](http://pr0gramm.com/user/trumpf) ([hier](http://pr0gramm.com/new/534136) vorgestellt). Anmerkung: Wird lt. cha0s bald gefixt.
 6. [SF-Status](https://github.com/pr0nopoly/sf-status/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
-   - Zeigt den Safe-For-Flag neben dem "Bilg Googlen" an.
+   - Zeigt den Safe-For-Flag neben dem "Bild Googlen" an.
 7. [Alte Rechts-/Links-Pfeile](https://gist.github.com/X39/19067b9d52c2fe75580a) (zum Installieren auf "Raw" klicken) von [X39](http://pr0gramm.com/user/X39); wird [hier](http://pr0gramm.com/new/614169) vorgestellt.
 
 ## Styles
