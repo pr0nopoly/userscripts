@@ -20,11 +20,12 @@
 6. [SF-Status](https://github.com/pr0nopoly/sf-status/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
    - Zeigt den Safe-For-Flag neben dem "Bild Googlen" an.
 7. [Alte Rechts-/Links-Pfeile](https://gist.github.com/X39/19067b9d52c2fe75580a) (zum Installieren auf "Raw" klicken) von [X39](http://pr0gramm.com/user/X39); wird [hier](http://pr0gramm.com/new/614169) vorgestellt. [Hier ist ein schlankerer Fork](https://gist.github.com/pr0nopoly/2ce19d77249678a6a716), der eine andere Herangehensweise verwendet.
+8. [cust0m](http://pr0gramm.com/top/622568) von [Schwuchtelini](http://pr0gramm.com/user/Schwuchtelini). Fasst so gut wie alle anderen Userskripte zusammen.
 
 ## Styles
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) von [holzmaster](http://pr0gramm.com/user/holzmaster); wird [hier](http://pr0gramm.com/new/545214) beschrieben.
 
 ## Wünsche
-1. [Von pr0ni](http://pr0gramm.com/new/545214:comment2708367): "Ich fänds schön wenn man eine Kommentarfolge einklappen könnte, damit ich nicht so viel scrollen muss. [...]"
+Bisher stehen keine Wünsche offen!
 
 Wer noch welche hat (Skripte/Styles/Ideen) -> PN an [mich](http://pr0gramm.com/user/holzmaster) oder Pullrequest stellen.
