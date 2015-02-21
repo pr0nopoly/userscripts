@@ -12,8 +12,8 @@
    - uvm.
 2. [op-highlight](https://github.com/pr0nopoly/op-highlight/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
    - Kennzeichnet den OP in den Kommentaren eines Bildes
-3. [ExtendedBenis](http://vikenemesh.groupc.de/files/ExtendedBenis.user.js) von [vikenzor](http://pr0gramm.com/user/vikenzor)
-   - Zeigt einem die Up/Downvotes eines Bildes direkt unter der Beniszahl an.
+3. [ExtendedBenis](https://github.com/vikenemesh/ExtendedBenis) von [vikenzor](http://pr0gramm.com/user/vikenzor)
+   - Zeigt einem die Up/Downvotes eines Bildes direkt unter der Beniszahl an. Mit einer art Prograssbar.
    - Ohne Skript: Über die Zahl hovern
 4. [Diashow](https://greasyfork.org/scripts/4409-pr0grammsurfer) von [CaptnUrMom](http://pr0gramm.com/user/CaptnUrMom) ([hier](http://pr0gramm.com/new/286521) vorgestellt)
 5. [Zentriertes pr0gramm](https://www.sendspace.com/file/158k8g) von [trumpf](http://pr0gramm.com/user/trumpf) ([hier](http://pr0gramm.com/new/534136) vorgestellt). Anmerkung: Wird lt. cha0s bald gefixt.
