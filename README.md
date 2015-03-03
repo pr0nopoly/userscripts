@@ -30,6 +30,10 @@
 ## Styles
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) von [holzmaster](http://pr0gramm.com/user/holzmaster); wird [hier](http://pr0gramm.com/new/545214) beschrieben.
 
+## Tools
+1. [rep0st](http://rep0st.rene8888.at) von [Rene8888](http://pr0gramm.com/user/Rene8888) und [Mopsalarm](http://pr0gramm.com/user/Mopsalarm) ([Quelltext](https://github.com/ReneHollander/rep0st))
+  - Zum besseren Erkennen von Reposts
+
 ## Wünsche
 Bisher stehen keine Wünsche offen!
 
