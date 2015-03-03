@@ -10,6 +10,11 @@
    - Bildgröße an Bildschirm angepasst
    - Kommentare nach Zeit/Beliebtheit sortieren
    - uvm.
+   - Funktionalitäten teilweise kopiert/inspiriert von:
+      - Benisanzeige von [koma](http://pr0gramm.com/new/593653)
+      - [op-highlight](https://github.com/pr0nopoly/op-highlight/)
+      - Up/Downvotes von [vikenzor](http://pr0gramm.com/new/535814)
+      - "Bereits gesehen" von [KreisAdler](http://pr0gramm.com/new/514574)
 2. [op-highlight](https://github.com/pr0nopoly/op-highlight/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
    - Kennzeichnet den OP in den Kommentaren eines Bildes
 3. [ExtendedBenis](https://github.com/vikenemesh/ExtendedBenis) von [vikenzor](http://pr0gramm.com/user/vikenzor)
