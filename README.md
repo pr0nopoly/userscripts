@@ -1,7 +1,5 @@
 ## Skripte
 
-#### Die Skripte sind mit Ausnahme des op-highlight, SF-Status und der Kommentarlinien nicht von mir geschrieben worden. Falls Ihr ein Problem mit eines dieser Skripte habt, müsst Ihr Euch an die Originalautoren wenden.
-
 1. [pr0gramm.com by Seglor](https://github.com/Seglormeister/pr0gramm.com-by-Seglor) von [Seglormeister](http://pr0gramm.com/user/Seglormeister)
    - Breitbild-pr0gramm
    - "Bereits gesehen"-Markierung
@@ -33,6 +31,8 @@
 ## Tools
 1. [rep0st](http://rep0st.rene8888.at) von [Rene8888](http://pr0gramm.com/user/Rene8888) und [Mopsalarm](http://pr0gramm.com/user/Mopsalarm) ([Quelltext](https://github.com/ReneHollander/rep0st))
   - Zum besseren Erkennen von Reposts
+2. [Tag Stats](http://knusprigeswuerstchen.github.io/pr0grammStats) ([Quellcode](https://github.com/knusprigeswuerstchen/pr0grammStats/tree/gh-pages))
+  - Bietet eine Übersicht der Tagauswertung
 
 ## Wünsche
 Bisher stehen keine Wünsche offen!
