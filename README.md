@@ -27,8 +27,7 @@
 10. [op-highlight](https://github.com/pr0nopoly/op-highlight/) von [holzmaster](http://pr0gramm.com/user/holzmaster)
    - Kennzeichnet den OP in den Kommentaren eines Bildes
    - **Anmerkung:** Mittlerweile ist ein Feature dieser Art schon ohne Userscript/-syle vorhanden.
-
-### 
+11. [n0tify](http://pr0gramm.com/new/813625) von [knusprigeswuerstchen](http://pr0gramm.com/user/knusprigeswuerstchen) ([Quellcode](https://github.com/knusprigeswuerstchen/n0tify)) - Chrome-Plugin für Benachrichtigungen
 
 ## Styles
 1. [Vertikale Linien für die Kommentare](https://userstyles.org/styles/109047) von [holzmaster](http://pr0gramm.com/user/holzmaster); wird [hier](http://pr0gramm.com/new/545214) beschrieben.
